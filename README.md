@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Qaadir Mohiuddin Riaz</h1>
 <h3 align="center">A passionate Cybersecurity from an anonymous world</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wreaking" alt="wreaking" /></a> </p>
 
 - 🔭 I’m currently working on [https://islam-info.vercel.app](https://islam-info.vercel.app)
 
