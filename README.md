@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [https://islam-info.vercel.app](https://islam-info.vercel.app)
 
-- 🌱 I’m currently learning **Python(Libraries), C, C++, Tensorflow, Cybersecurity, Kali Linux and Web Development**
+- 🌱 I’m currently learning **Python(), C, C++, Tensorflow, Cybersecurity, Kali Linux, Open Source and Web Development**
 
 - 👯 I’m looking to collaborate on [Simple Calculator](https://github.com/Wreaking/calculator)
 
